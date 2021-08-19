@@ -1,7 +1,4 @@
-Class student{
-string name;
-int age;
-int height;
-void student(){
-system.out.println(name +age+height)
-}}
+class Student{
+int id;
+String name;
+}
